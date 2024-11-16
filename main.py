@@ -1,8 +1,8 @@
-import demographic_data_analyzer
+import demographic_data_analyser
 from unittest import main
 
 # Test your function by calling it here
-demographic_data_analyzer.calculate_demographic_data()
+demographic_data_analyser.calculate_demographic_data()
 
 # Run unit tests automatically
-main(module='test_module', exit=False)
+main(module='tests', exit=False)

@@ -1,7 +1,7 @@
 # Demographic-Data-Analyser
 
 The project is to analyse the given demographic data and answer the following questions:-
-1)How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
+#1)How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 2)What is the average age of men?
 3)What is the percentage of people who have a Bachelor's degree?
 4)What percentage of people with advanced education (Bachelors, Masters, or Doctorate) make more than 50K?
